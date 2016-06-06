@@ -1,0 +1,12 @@
+{
+    "name": "devepit/form",
+    "description": "test paczki",
+    "authors": [
+        {
+            "name": "Deve",
+            "email": "sandeve.pl@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
